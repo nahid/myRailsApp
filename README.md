@@ -1,0 +1,4 @@
+myRailsApp
+==========
+
+Rails Practice
